@@ -12,7 +12,7 @@
 </ol>
 <br/>
 <p><strong>Topics and emails visualization in Power BI</strong></p>
-<img src="Report.png"></img>
+<img src="Report.png">
 
 
 
