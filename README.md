@@ -10,7 +10,7 @@
   <li> Visualized the topics and relationships between employees on Microsoft Power BI   
 </ol>
 <br/>
-<p>##Knowledge Graph Metadata</p>
+## Knowledge Graph Metadata
 
   
   
