@@ -7,9 +7,10 @@
   <li> Preprocessed and tokenized the emails using spaCY library
   <li> Used LDA model in sklearn to model to extract the topics 
   <li> Loaded the results in NetworkX graph
-  <li> Visualized the topics and relationship between employees on Microsoft Power BI   
+  <li> Visualized the topics and relationships between employees on Microsoft Power BI   
 </ol>
 <br/>
+<p>##Knowledge Graph Metadata</p>
 
   
   
