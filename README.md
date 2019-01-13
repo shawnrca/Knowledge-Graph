@@ -6,7 +6,8 @@
   <li> Created a Graph in NetworkX and loaded the emails to it
   <li> Preprocessed and tokenized the emails using spaCY library
   <li> Used LDA model in sklearn to model to extract the topics 
-  <li> loaded the results in NetworkX graph 
+  <li> Loaded the results in NetworkX graph
+  <li> Visualized the topics and relationship between employees usine Mricrosoft Power BI   
 </ol>
   
   
