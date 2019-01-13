@@ -1,6 +1,6 @@
 # Knowledge graph with Enron emails
 <p>The purpose of this experiment is to learn about how to build a knopwledge grapgh from scratch.</p>
-<p>Visualization answers the question: who is talking about specific topics to who. Topics are labels manually.</p>
+<p>Visualization answers the question: who is talking about which topics to who? Topics are labels manually.</p>
 <p><strong>Steps are as follows:</strong></p>
 <ol>
   <li> Downloaded the enrons MySQL file from http://www.ahschulz.de/enron-email-data/
