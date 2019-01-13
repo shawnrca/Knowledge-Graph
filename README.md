@@ -11,6 +11,8 @@
   <li> Visualized the topics and relationships between employees on Microsoft Power BI   
 </ol>
 <br/>
+<p><strong>Knowledge Graph metadata</strong></p>
+<img src="https://github.com/shawnrca/Knowledge-Graph/blob/master/KG.PNG">
 <p><strong>Topics and emails visualization in Power BI</strong></p>
 <img src="https://github.com/shawnrca/Knowledge-Graph/blob/master/Report.PNG">
 
