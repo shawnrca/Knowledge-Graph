@@ -12,7 +12,7 @@
 </ol>
 <br/>
 <p><strong>Topics and emails visualization in Power BI</strong></p>
-<img src="Report.png">
+<img src="https://github.com/shawnrca/Knowledge-Graph/blob/master/Report.PNG">
 
 
 
