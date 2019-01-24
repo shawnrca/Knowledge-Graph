@@ -1,5 +1,5 @@
 # Knowledge graph with Enron emails
-<p>The purpose of this experiment is to learn about how to build a knopwledge grapgh from scratch.</p>
+<p>The purpose of this experiment is to learn about how to build a knopwledge graph from scratch.</p>
 <p>Visualization answers the question: who is talking about which topics to who? Topics are labeled manually.</p>
 <p><strong>Steps are as follows:</strong></p>
 <ol>
